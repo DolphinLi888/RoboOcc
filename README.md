@@ -9,12 +9,13 @@ A stereo camera is mounted on the top of the robot to get sensor data. A colored
 # Quickstart
 The code has been tested both on Windows11 and Ubuntu 22.04. An anaconda virtual env is recommaned.  
 ```bash  
-conda create -n roboocc python=3.12    
+conda create -n roboocc python=3.10    
 conda activate roboocc    
 ``` 
-And pip install main library:  
-Pytorch >=2.4  
-Open3d  >=0.16.0
+And install depandencies:  
+pytorch >=2.1 
+open3d  >=0.16.0
+opencv-python >= 4.7
 
 
 
