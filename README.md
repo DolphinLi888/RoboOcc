@@ -12,9 +12,9 @@ The code has been tested both on Windows11 and Ubuntu 22.04. An anaconda virtual
 conda create -n roboocc python=3.12    
 conda activate roboocc    
 ``` 
-And pip install:  
-1.Pytorch >=2.4  
-2.Open3d  >=0.16.0
+And pip install main library:  
+Pytorch >=2.4  
+Open3d  >=0.16.0
 
 
 
