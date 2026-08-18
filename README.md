@@ -12,7 +12,7 @@ The code has been tested both on Windows11 and Ubuntu 22.04. An anaconda virtual
 conda create -n roboocc python=3.10    
 conda activate roboocc    
 ``` 
-And install depandencies:  
+And install dependencies:  
 pytorch >=2.1   
 open3d  >=0.16.0  
 opencv-python >= 4.7  
