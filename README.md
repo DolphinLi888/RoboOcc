@@ -13,9 +13,9 @@ conda create -n roboocc python=3.10
 conda activate roboocc    
 ``` 
 And install depandencies:  
-pytorch >=2.1 
-open3d  >=0.16.0
-opencv-python >= 4.7
+pytorch >=2.1   
+open3d  >=0.16.0  
+opencv-python >= 4.7  
 
 
 
