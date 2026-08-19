@@ -19,7 +19,7 @@ And install dependencies:
 pytorch >=2.1   
 open3d  >=0.16.0  
 opencv-python >= 4.7  
-Download the model file roboocc_scripted.pt from huggingface.  
+Download the model file roboocc_scripted.pt from Hugging Face.  
 ```bash  
 https://huggingface.co/DolphinLi888/RoboOcc/tree/main
 ```  
