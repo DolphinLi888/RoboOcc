@@ -19,6 +19,13 @@ And install dependencies:
 pytorch >=2.1   
 open3d  >=0.16.0  
 opencv-python >= 4.7  
+Download the model from huggingface.  
+```bash  
+https://huggingface.co/DolphinLi888/RoboOcc/tree/main
+```  
+# Inference
+python test.y
+
 
 
 
