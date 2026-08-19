@@ -4,9 +4,10 @@ It's a demo project and it's not open source now.
 # IsaacLab 
 A simulation scene is create to collect data, the robot is controlled by keyboard "W"/"S"/"A"/"D" to walk forward/backward/turn left/turn right.   
 A stereo camera is mounted on the top of the robot to get sensor data. A colored picture & depth RGB is acquired with 2Hz, and point cloud & occ label is calculate post process.  
-<img src="isaaclab_1.png" alt="演示截图" style="width:60%"/>  
-<img src="isaaclab_2.png" alt="演示截图" style="width:60%"/>  
-<img src="isaaclab_3.png" alt="演示截图" style="width:60%"/>
+<img src="isaaclab_1.png" alt="演示截图" style="width:50%"/>
+<img src="isaaclab_2.png" alt="演示截图" style="width:50%"/>  
+<img src="isaaclab_3.png" alt="演示截图" style="width:50%"/>
+<img src="isaaclab_4.png" alt="演示截图" style="width:50%"/>
 # Prediction
 ![demo](./demo_gif.gif)
 # Quickstart
